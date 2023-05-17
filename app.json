@@ -1,0 +1,32 @@
+{
+  "expo": {
+    "name": "76",
+    "slug": "76",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/main_scrn.jpeg",
+    "splash": {
+      "image": "./assets/main_scrn.jpeg",
+      "resizeMode": "contain",
+      "backgroundColor": "black"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/main_scrn.jpeg",
+        "backgroundColor": "#FFFFFF"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
